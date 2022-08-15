@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
 
-<div align="center">
+<div align="center" style="display:flex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakamura1121&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakamura1121&layout=compact&langs_count=7&theme=dark"/>
 </div>
